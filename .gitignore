@@ -3,9 +3,9 @@
 config_mail.py
 /attachments
 /tmp
-/result/convert/line1seq
-/result/convert/line2seq
-/result/convert/bum1line
-/result/convert/bum2line
-/result/convert/ndljit
-/result/convert/stljit
+/result/convert/line1seq/
+/result/convert/line2seq/
+/result/convert/bum1line/
+/result/convert/bum2line/
+/result/convert/ndljit/
+/result/convert/stljit/

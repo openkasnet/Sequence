@@ -222,9 +222,5 @@ import line1seq
 import line2seq
 
 
-<<<<<<< HEAD
 GetMail(imap_host = 'host', userName = 'user', passwd = 'pass')
-=======
-GetMail(imap_host = 'mail.uzkoram.uz', userName = 'user', passwd = 'pass')
->>>>>>> abb32364bd7cf648936408886bffdfb7eb71a90a
 

@@ -222,5 +222,5 @@ import line1seq
 import line2seq
 
 
-GetMail(imap_host = 'mail.uzkoram.uz', userName = 'get', passwd = '#nasta57$')
+GetMail(imap_host = 'host', userName = 'user', passwd = 'pass')
 
